@@ -3,10 +3,60 @@
     <title>vd&#x27;sblog</title>
     <link href="https://viki9146.github.io/vd-blog/feed.xml" rel="self" />
     <link href="https://viki9146.github.io/vd-blog" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2022-09-29T21:11:41+05:30</updated>
     <author>
         <name>Vivek Deshmukh</name>
     </author>
     <id>https://viki9146.github.io/vd-blog</id>
 
+    <entry>
+        <title>JYTHON</title>
+        <author>
+            <name>Vivek Deshmukh</name>
+        </author>
+        <link href="https://viki9146.github.io/vd-blog/jython.html"/>
+        <id>https://viki9146.github.io/vd-blog/jython.html</id>
+
+        <updated>2022-09-29T21:11:41+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://viki9146.github.io/vd-blog/media/posts/1/maze_2.png" alt="" />
+                    What Is Jython ? The Jython project provides implementations of Python in Java, providing to Python the benefits of running on the JVM and access to classes written in Java. The current release (a Jython 2.7.x) only supports Python 2 (sorry). There is work towards&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://viki9146.github.io/vd-blog/media/posts/1/maze_2.png" alt="" />
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="file:///home/vivek/Documents/Publii/sites/vdsblog/input/media/posts/temp/bivariate.png" sizes="100vw" srcset="file:///home/vivek/Documents/Publii/sites/vdsblog/input/media/posts/temp/responsive/bivariate-xs.png 300w ,file:///home/vivek/Documents/Publii/sites/vdsblog/input/media/posts/temp/responsive/bivariate-sm.png 480w ,file:///home/vivek/Documents/Publii/sites/vdsblog/input/media/posts/temp/responsive/bivariate-md.png 768w ,file:///home/vivek/Documents/Publii/sites/vdsblog/input/media/posts/temp/responsive/bivariate-lg.png 1024w ,file:///home/vivek/Documents/Publii/sites/vdsblog/input/media/posts/temp/responsive/bivariate-xl.png 1360w ,file:///home/vivek/Documents/Publii/sites/vdsblog/input/media/posts/temp/responsive/bivariate-2xl.png 1600w"  height="1080" width="1920" alt="" />
+      
+    </figure>
+
+    <h2 id="what-is-jython-">
+      What Is Jython ?
+    </h2>
+
+  <p>
+    The Jython project provides implementations of Python in Java, providing to Python the benefits of running on the JVM and access to classes written in Java. The current release (a Jython 2.7.x) only supports Python 2 (sorry). There is work towards a Python 3 in the project’s GitHub repository.<br><br>Jython implementations are freely available for both commercial and non-commercial use. They are distributed with source code under the PSF License v2.<br><br>Jython is complementary to Java and is especially suited for the following tasks:<br><br>    Embedded scripting - Java programmers can add the Jython libraries to their system to allow end users to write simple or complicated scripts that add functionality to the application.<br>    Interactive experimentation - Jython provides an interactive interpreter that can be used to interact with Java packages or with running Java applications. This allows programmers to experiment and debug any Java system using Jython.<br>    Rapid application development - Python programs are typically 2-10x shorter than the equivalent Java program. This translates directly to increased programmer productivity. The seamless interaction between Python and Java allows developers to freely mix the two languages both during development and in shipping products.
+  </p>
+
+    <h3 id="getting-started">
+      Getting Started
+    </h3>
+
+  <p>
+    Ready to get started? Head over to <a href="https://www.jython.org/download" target="_blank">Downloads</a>.<br><br>Or you could read a quick overview of <a href="https://www.jython.org/jyspecific" target="_blank">features specific to Jython.</a><br><br>A more detailed introduction and reference can be found in the <a href="https://jython.readthedocs.io/en/latest/" target="_blank">Jython Book.</a>
+  </p>
+
+    <h2 id="who-uses-jython">
+      Who uses Jython?
+    </h2>
+
+  <p>
+    Jython is embedded in lots of projects. See some from <a href="https://mvnrepository.com/artifact/org.python/jython-standalone/usages" target="_blank">MVNRepository</a><br><br>    IBM Websphere - Use Jython to provide administrative scripting capabilities.<br>    Apache PIG - Use Jython to support user defined functions.<br>    ImageJ - Use Jython to provide scripted image processing.<br>    GDA - Use Jython to script scientific experiments.<br>    Robot Framework - A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD) which runs on Jython.<br>    TigerJython - An educational programming environment that is based on Jython.<br>    JEM/JythonMusic - An environment for music making and creative programming using Jython.<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
